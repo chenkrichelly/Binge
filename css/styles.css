@@ -29,13 +29,13 @@ p {
 /* Containers */
 
 .container-fluid{
-  padding: 7% 15%;
+  padding: 5% 15%;
 }
 
 /* Sections */
 
 .colored-section {
-  background-color: #5951ad;
+  background-color: black;
   color: #fff;
 }
 
@@ -53,6 +53,7 @@ p {
   font-family: 'Ubuntu', sans-serif;
   font-size: 2.5rem;
   font-weight: 700;
+  color: #E50914 !important;
 }
 
 #navbarTogglerDemo02 {
@@ -78,7 +79,7 @@ p {
 /* Title Section */
 
 #title {
-  background-color: #5951ad;
+  background-color: black;
   color: #fff;
   text-align: left;
 }
@@ -108,22 +109,22 @@ p {
 }
 
 .feature-box {
-  padding: 4.5%;
+  padding: 3.5%;
 }
 
 .icon {
-  color: #A084DC;
+  color: #E50914;
   margin-bottom: 1rem;
 }
 
 .icon:hover {
-  color: #5951ad;
+  color: red;
 }
 
 /* Testimonial Section */
 
 #testimonials {
-  background-color: #A084DC;
+  background-color: #b8060e;
 }
 
 .testimonial-text {
@@ -140,13 +141,18 @@ p {
 
 
 #press {
-  background-color: #A084DC;
+  background-color: #b8060e;
   padding-bottom: 3%;
+}
+
+em{
+  color: black;
+
 }
 
 .press-logo {
   width: 15%;
-  margin: 20px 20px 50px;
+  margin: 0px 20px 10px;
 }
 
 /* Pricing Section */
