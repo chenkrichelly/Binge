@@ -7,7 +7,7 @@ Binge offers a user-friendly interface, elite show selection, and a guaranteed h
 ### Prerequisites
 
 All you need is a web browser (e.g., Chrome, Firefox, Safari) and Internet connection.  
-Simply visit the [Binge website](#) to start exploring and enjoying your favorite shows.
+Simply visit the [Binge website](https://chenkrichelly.github.io/Binge/) to start exploring and enjoying your favorite shows.
 
 ---
 
