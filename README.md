@@ -1,4 +1,4 @@
-# # Binge Streming Service
+# Binge Streming Service
 
 ![Binge Logo](images/favicon.ico)
 
